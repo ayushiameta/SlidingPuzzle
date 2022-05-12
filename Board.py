@@ -1,6 +1,6 @@
 
 # created Board class (converts string input to n * n board)
-#implemented all board related funtionalities
+#implements all board related funtionalities
 
 
 class Board:
